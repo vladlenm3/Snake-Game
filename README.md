@@ -24,14 +24,12 @@ random - to generate objects at a random location in the game.
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
 * [PyGame: A Primer on Game Programming in Python](https://realpython.com/pygame-a-primer/)
 * [Game in Python – Using Pygame module](https://www.geeksforgeeks.org/snake-game-in-python-using-pygame-module/)
 * [Learn Python 3](https://www.codecademy.com/learn/learn-python-3)
 
 # Future Work
 
-{Make a list of things that you need to fix, improve, and add in the future.}
 * Add different levels of difuculty
 * Add some objects that will reduce the tail of a snake if a snake hit them
 * Add more graphics 
