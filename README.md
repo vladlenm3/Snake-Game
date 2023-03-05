@@ -10,7 +10,7 @@ c - continue the game, q- quit the game.
 I decided to write this game in order to learn game frameworks and master my programming skills
 in a different language. I used PyGame as my gaming framework.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[PyGame Snake](https://youtu.be/jFxD8T6tivU)
 
 # Development Environment
 
